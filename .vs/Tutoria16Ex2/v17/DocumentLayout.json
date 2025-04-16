@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net class\\lab 5\\Tutoria16Ex2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{637F13C6-A2E3-4F1C-AA6D-14058891ACA7}|WebApplication1\\WebApplication1.csproj|d:\\.net class\\lab 5\\tutoria16ex2\\webapplication1\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637F13C6-A2E3-4F1C-AA6D-14058891ACA7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637F13C6-A2E3-4F1C-AA6D-14058891ACA7}|WebApplication1\\WebApplication1.csproj|d:\\.net class\\lab 5\\tutoria16ex2\\webapplication1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637F13C6-A2E3-4F1C-AA6D-14058891ACA7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637F13C6-A2E3-4F1C-AA6D-14058891ACA7}|WebApplication1\\WebApplication1.csproj|d:\\.net class\\lab 5\\tutoria16ex2\\webapplication1\\controllers\\campuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637F13C6-A2E3-4F1C-AA6D-14058891ACA7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\campuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637F13C6-A2E3-4F1C-AA6D-14058891ACA7}|WebApplication1\\WebApplication1.csproj|d:\\.net class\\lab 5\\tutoria16ex2\\webapplication1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637F13C6-A2E3-4F1C-AA6D-14058891ACA7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CampusController.cs",
+              "DocumentMoniker": "D:\\.net class\\lab 5\\Tutoria16Ex2\\WebApplication1\\Controllers\\CampusController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CampusController.cs",
+              "ToolTip": "D:\\.net class\\lab 5\\Tutoria16Ex2\\WebApplication1\\Controllers\\CampusController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\CampusController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T10:03:42.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\.net class\\lab 5\\Tutoria16Ex2\\WebApplication1\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\.net class\\lab 5\\Tutoria16Ex2\\WebApplication1\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "WebApplication1\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T09:58:03.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\.net class\\lab 5\\Tutoria16Ex2\\WebApplication1\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\.net class\\lab 5\\Tutoria16Ex2\\WebApplication1\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T09:56:31.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubjectController.cs",
+              "DocumentMoniker": "D:\\.net class\\lab 5\\Tutoria16Ex2\\WebApplication1\\Controllers\\SubjectController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\SubjectController.cs",
+              "ToolTip": "D:\\.net class\\lab 5\\Tutoria16Ex2\\WebApplication1\\Controllers\\SubjectController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\SubjectController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T08:55:25.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
